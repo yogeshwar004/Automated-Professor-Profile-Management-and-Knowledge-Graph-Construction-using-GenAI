@@ -1,0 +1,3935 @@
+{
+  "teachers": [
+    {
+      "id": "4cbe1632",
+      "name": "",
+      "college": "test",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "",
+      "phd_thesis": "",
+      "google_scholar_url": "",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": []
+    },
+    {
+      "id": "f82927e5",
+      "name": "",
+      "college": "Vellore Institute of Technology, Vellore",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Network and Cyber Security, AI, Web3.0",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=aCCuo_IAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Network and Cyber Security",
+        "AI",
+        "Web3.0"
+      ]
+    },
+    {
+      "id": "269d1df4",
+      "name": "",
+      "college": "KLE Technological Univeristy",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Visual Intelligence, GenAI, Computer Vision",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&hl=en&user=hZbrO4IAAAAJ&authuser=1",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Visual Intelligence",
+        "GenAI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "id": "330b2ec8",
+      "name": "",
+      "college": "PSG College of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Web services ML, Federated learning",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=fxUYVl4AAAAJ&hl=en&authuser=1",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Web services ML",
+        "Federated learning"
+      ]
+    },
+    {
+      "id": "604acafb",
+      "name": "",
+      "college": "B.M.S College Of Engineering",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "IoT, AI,ML,Big data",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=CZNNBZ0AAAAJ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "IoT",
+        "AI",
+        "ML",
+        "Big data"
+      ]
+    },
+    {
+      "id": "27a5af22",
+      "name": "",
+      "college": "Ramaiah Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Artificial Intelligence, Machine learning, Quantum Computing, Security",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=ikBb_PoAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Artificial Intelligence",
+        "Machine learning",
+        "Quantum Computing",
+        "Security"
+      ]
+    },
+    {
+      "id": "178c7c38",
+      "name": "",
+      "college": "National Institute of Technology Tiruchirappalli",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "NLP,  Machine learning, Deep learning, Reinforcement learning, Cloud",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?hl=en&user=4ScZIsEAAAAJ&sortby=pubdate&view_op=list_works&gmla=AJsN-F6BFpR_O8zLUnmon7DLXYmc2n8Y8j4qjA8Z69HUtAzPEV0Z2sSBN_N426iuBk1cOHA_Vp4uWMvnwOq8FTJsQrH4qIVzymjKSuC2LOcTfUCkOeA90a8",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "NLP",
+        "Machine learning",
+        "Deep learning",
+        "Reinforcement learning",
+        "Cloud"
+      ]
+    },
+    {
+      "id": "93f1f247",
+      "name": "",
+      "college": "VIT Chennai",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Signal and Image Processing",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=XAG0ISoAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Signal and Image Processing"
+      ]
+    },
+    {
+      "id": "d1eaa67b",
+      "name": "",
+      "college": "Graphic Era (Deemed to be) University, Dehradun",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Machine Learning, Data Mining, iOS App Development, Software Engineering Life Cycle, Project Planning and Management",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=MbRM_1MAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Machine Learning",
+        "Data Mining",
+        "iOS App Development",
+        "Software Engineering Life Cycle",
+        "Project Planning and Management"
+      ]
+    },
+    {
+      "id": "356479b6",
+      "name": "",
+      "college": "Vellore Institute of Technology, Chennai Campus",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Speech processing, Image processing, AI, Deep Learning, Acoustics",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=7PeXcLAAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Speech processing",
+        "Image processing",
+        "AI",
+        "Deep Learning",
+        "Acoustics"
+      ]
+    },
+    {
+      "id": "fbac84dc",
+      "name": "",
+      "college": "RVCE ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Networks, SDN",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=vIFjw0YAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Networks",
+        "SDN"
+      ]
+    },
+    {
+      "id": "cf49f1ec",
+      "name": "",
+      "college": "B.M.S. College of Engineering ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Cloud Computing, Data Analytics, Machine Learning ",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=cWTIdwoAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Cloud Computing",
+        "Data Analytics",
+        "Machine Learning"
+      ]
+    },
+    {
+      "id": "2ae48827",
+      "name": "",
+      "college": "R V College of Engineering",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Image Processing and Networking",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=be2jlCcAAAAJ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Image Processing and Networking"
+      ]
+    },
+    {
+      "id": "531abde5",
+      "name": "",
+      "college": "KLE Technological University, Hubli",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Image and Video processing, Machine and deep learning",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=tm7570wAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Image and Video processing",
+        "Machine and deep learning"
+      ]
+    },
+    {
+      "id": "42352203",
+      "name": "",
+      "college": "Sathyabama Institute of Science and Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Quantum Computing, Network and Cyber Security",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/scholar?as_ylo=2025&q=prayla+shyry&hl=en&as_sdt=0,5",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Quantum Computing",
+        "Network and Cyber Security"
+      ]
+    },
+    {
+      "id": "6e29ae55",
+      "name": "",
+      "college": "Vellore Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "5G and B5G Wireless Technology, Wireless Sensor Networks, Artificial Intelligence and Machine Learning,  Biomedical Image Processing",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=4zTOhscAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "5G and B5G Wireless Technology",
+        "Wireless Sensor Networks",
+        "Artificial Intelligence and Machine Learning",
+        "Biomedical Image Processing"
+      ]
+    },
+    {
+      "id": "61b86351",
+      "name": "",
+      "college": "VIT VELLORE",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "VLSI , AI & ML hardware",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=6S2VkHgAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "VLSI",
+        "AI & ML hardware"
+      ]
+    },
+    {
+      "id": "0742e275",
+      "name": "",
+      "college": "Chandigarh University",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Communication Engineering, Deep Learning, Natural Language Processing, Machine Learning, Internet of Medical Things",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=kMvx4AwAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Communication Engineering",
+        "Deep Learning",
+        "Natural Language Processing",
+        "Machine Learning",
+        "Internet of Medical Things"
+      ]
+    },
+    {
+      "id": "5b69dd05",
+      "name": "",
+      "college": "International Institute of Information Technology Naya Raipur",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Artificial Intelligence, Machine Learning, IoT, Software Engineering",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=OQdBx7EAAAAJ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "IoT",
+        "Software Engineering"
+      ]
+    },
+    {
+      "id": "ee2462c8",
+      "name": "",
+      "college": "Vellore Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Image Processing, Computer Vision, Deep Learning",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=oOV30lEAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Image Processing",
+        "Computer Vision",
+        "Deep Learning"
+      ]
+    },
+    {
+      "id": "40228e0a",
+      "name": "",
+      "college": "SRM Institute of Science and Technology ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Cloud, IOT, Image Recognition ",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=46VGaugAAAAJ&hl=en&authuser=1",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Cloud",
+        "IOT",
+        "Image Recognition"
+      ]
+    },
+    {
+      "id": "bc094bd0",
+      "name": "",
+      "college": "Amrita School of Computing",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Computer vision, Human Computer Interaction, Eye Tracking,Multimodal Data Analysis,  AI in healthcare and Education",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=BmrC6aIAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Computer vision",
+        "Human Computer Interaction",
+        "Eye Tracking",
+        "Multimodal Data Analysis",
+        "AI in healthcare and Education"
+      ]
+    },
+    {
+      "id": "22caa4c9",
+      "name": "",
+      "college": "PSG College of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Internet of Things, Edge Computing, Wearable healthcare ,  Embedded Machine learning ",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=mmNPmLoAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Internet of Things",
+        "Edge Computing",
+        "Wearable healthcare",
+        "Embedded Machine learning"
+      ]
+    },
+    {
+      "id": "f9d3a7fa",
+      "name": "",
+      "college": "Vellore Institute of Technology, Chennai Campus",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Networks and Security, AI (Data Analysis, ML, DL, RL, LLM) and NLP",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=AbqtG_EAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Networks and Security",
+        "AI (Data Analysis",
+        "ML",
+        "DL",
+        "RL",
+        "LLM) and NLP"
+      ]
+    },
+    {
+      "id": "90e6e90e",
+      "name": "",
+      "college": "VIT University Vellore",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Artificial Intelligence, Nature Language Processing, Deep Learning, Generative AI",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=Ew1O7LcAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Artificial Intelligence",
+        "Nature Language Processing",
+        "Deep Learning",
+        "Generative AI"
+      ]
+    },
+    {
+      "id": "4771b5e0",
+      "name": "",
+      "college": "Siddaganga Institute of Technology ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Computer Network, Machine learning ",
+      "phd_thesis": "",
+      "google_scholar_url": "",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Computer Network",
+        "Machine learning"
+      ]
+    },
+    {
+      "id": "c328e4b9",
+      "name": "",
+      "college": "B.M.S College of Engineering ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Cloud Computing, Big Data Analytics ",
+      "phd_thesis": "",
+      "google_scholar_url": "",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Cloud Computing",
+        "Big Data Analytics"
+      ]
+    },
+    {
+      "id": "c1054863",
+      "name": "",
+      "college": "VIT, Vellore",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "IoT, Embedded Systems, VLSI",
+      "phd_thesis": "",
+      "google_scholar_url": "",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "IoT",
+        "Embedded Systems",
+        "VLSI"
+      ]
+    },
+    {
+      "id": "add3ab6d",
+      "name": "",
+      "college": "Chandigarh University, Gharuan ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Cloud computing, Computer Networks, Blockchain Security, Machine learning, IoT",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=gz_G2rEAAAAJ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Cloud computing",
+        "Computer Networks",
+        "Blockchain Security",
+        "Machine learning",
+        "IoT"
+      ]
+    },
+    {
+      "id": "fc51a06a",
+      "name": "",
+      "college": "RAMAIAH INSTITUTE OF TECHNOLOGY",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "IoT for Hydroponics, NS3, IMAGE CLASSIFICATION",
+      "phd_thesis": "",
+      "google_scholar_url": "",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "IoT for Hydroponics",
+        "NS3",
+        "IMAGE CLASSIFICATION"
+      ]
+    },
+    {
+      "id": "ca6b7fa2",
+      "name": "",
+      "college": "PSG College of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Machine Learning and VLSI Design",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=mT3Wej0AAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Machine Learning and VLSI Design"
+      ]
+    },
+    {
+      "id": "4cf60b85",
+      "name": "",
+      "college": "RV College of Engineering",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Data security and privacy, Artificial Intelligence and machine learning",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=KorjT1QAAAAJ&hl=en&oi=ao",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Data security and privacy",
+        "Artificial Intelligence and machine learning"
+      ]
+    },
+    {
+      "id": "5b999cef",
+      "name": "",
+      "college": "Vellore Institute of Technology, Vellore",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Software Engineering, Machine Learning.",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=CW6OwKIAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Software Engineering",
+        "Machine Learning."
+      ]
+    },
+    {
+      "id": "0afcc15a",
+      "name": "",
+      "college": "KIIT Deemed to be University",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Soft computing, Energy Storage",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=D33No0IAAAAJ&hl=en&oi=ao",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Soft computing",
+        "Energy Storage"
+      ]
+    },
+    {
+      "id": "22da2bc5",
+      "name": "",
+      "college": "MSRIT`",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "AI/ML, Gen AI, Data Analytics in Health care,Agri, Eduational domain",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=uOwul8kAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "AI/ML",
+        "Gen AI",
+        "Data Analytics in Health care",
+        "Agri",
+        "Eduational domain"
+      ]
+    },
+    {
+      "id": "8c57837a",
+      "name": "",
+      "college": "RV College of Engineering ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Computer Networking, Security",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=vAzXisoAAAAJ&hl=en&authuser=1",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Computer Networking",
+        "Security"
+      ]
+    },
+    {
+      "id": "bf8f1654",
+      "name": "",
+      "college": "Vellore Institute Of Technology, Chennai",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Artificial Intelligence ",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?view_op=list_works&hl=en&hl=en&user=3JtZmpMAAAAJ&sortby=pubdate",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "id": "ae3fd05b",
+      "name": "",
+      "college": "NIT Trichy",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "     Data Science and Security     Internet of Things",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=gLqPJLQAAAAJ&hl=en ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Data Science and Security     Internet of Things"
+      ]
+    },
+    {
+      "id": "0c4c9965",
+      "name": "",
+      "college": "Kalinga Institute of Industrial Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Smart Grids, Edge Computing, AI, MAchine Learning, Terahertz sensors",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=iGAvOmEAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Smart Grids",
+        "Edge Computing",
+        "AI",
+        "MAchine Learning",
+        "Terahertz sensors"
+      ]
+    },
+    {
+      "id": "a570f76f",
+      "name": "",
+      "college": "Vellore Institute of Technology, Vellore",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Electric Vehicle scheduling, Energy management systems, Data analytics in power systems",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?hl=en&user=ImaWP3sAAAAJ&view_op=list_works&sortby=pubdate",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Electric Vehicle scheduling",
+        "Energy management systems",
+        "Data analytics in power systems"
+      ]
+    },
+    {
+      "id": "d8c863bb",
+      "name": "",
+      "college": "Vellore Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Video Analytics, GEN AI, Quantum Machine Learning",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=elt5hkIAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Video Analytics",
+        "GEN AI",
+        "Quantum Machine Learning"
+      ]
+    },
+    {
+      "id": "77a51e69",
+      "name": "",
+      "college": "Thapar Institute of Engineering and Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Machine Learning, Artificial Intelligence",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=tFet8fYAAAAJ&view_op=list_works&authuser=2&gmla=AH8HC4wjDS0I29-wV-ctki_lXqQVLMBCFTfuAtY6JJ-bV2BatMpFXsUm52H8nB1hiCCEV_56z8V4s3_gt6ILEACb",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Machine Learning",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "id": "2d766a82",
+      "name": "",
+      "college": "C.V. Raman Global University",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "AI/ML, Signal Processings, Wireless Communication",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=NhwrtSEAAAAJ&hl=en ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "AI/ML",
+        "Signal Processings",
+        "Wireless Communication"
+      ]
+    },
+    {
+      "id": "ec7dc7c9",
+      "name": "",
+      "college": "K. L. University",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Healthcare",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=PdRDit4AAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Healthcare"
+      ]
+    },
+    {
+      "id": "df0182b6",
+      "name": "",
+      "college": "SRM Institute of Science and Technology ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Computer Vision, Deep Learning, Generative AI",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=74W4MIQAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Computer Vision",
+        "Deep Learning",
+        "Generative AI"
+      ]
+    },
+    {
+      "id": "3b13e4a3",
+      "name": "",
+      "college": "Karunya Institute of Technology and Sciences (Deemed University)",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "AI, Robotics, Cybersecurity",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=JpB-wpMAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "AI",
+        "Robotics",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": "4a7c35c2",
+      "name": "",
+      "college": "RV College of Engineering",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "NLP and LLM",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=qJcNR50AAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "NLP and LLM"
+      ]
+    },
+    {
+      "id": "6b9d99ac",
+      "name": "",
+      "college": "SRMIST",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Artificial Intelligence, Machine Learning, NLP, Cloud Computing computing",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=jjgLSBwAAAAJ&hl=en&oi=ao",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "NLP",
+        "Cloud Computing computing"
+      ]
+    },
+    {
+      "id": "37c82811",
+      "name": "",
+      "college": "M S Ramaiah Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Predictive Analytics, AI&ML, Ubiquitous Computing",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=O7hoV78AAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Predictive Analytics",
+        "AI&ML",
+        "Ubiquitous Computing"
+      ]
+    },
+    {
+      "id": "d5bfcd25",
+      "name": "",
+      "college": "AIIT, Amity University Uttar Pradesh Lucknow",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Cloud Computing, AI, ML, IoT",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=L4c85CAAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Cloud Computing",
+        "AI",
+        "ML",
+        "IoT"
+      ]
+    },
+    {
+      "id": "b3020849",
+      "name": "",
+      "college": "MIT MANIPAL",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "AI , WIRELESS , NETWORKING ",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=MIHl1YQAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "AI",
+        "WIRELESS",
+        "NETWORKING"
+      ]
+    },
+    {
+      "id": "75229028",
+      "name": "",
+      "college": "Ramaiah Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Artificial Intelligence, Machine Learning and Networks",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=qX-0prYAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Artificial Intelligence",
+        "Machine Learning and Networks"
+      ]
+    },
+    {
+      "id": "e87038cb",
+      "name": "",
+      "college": "SRM Institute of Science and Technology, Kattankulathur, India",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Cryptography, Data Security and Quantum Cryptography ",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=jeOzCckAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Cryptography",
+        "Data Security and Quantum Cryptography"
+      ]
+    },
+    {
+      "id": "8c81eecf",
+      "name": "",
+      "college": "VELLORE INSTITUTE OF TECHNOLOGY CHENNAI",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Signal, Image and Speech & Audio Processing, AI and ML",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=DXpjgP0AAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Signal",
+        "Image and Speech & Audio Processing",
+        "AI and ML"
+      ]
+    },
+    {
+      "id": "3dcaef53",
+      "name": "",
+      "college": "Siddaganga Institue of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Image and speech processing, Natural Language Processing, Biometric authentication",
+      "phd_thesis": "",
+      "google_scholar_url": "ZpRkbnoAAAAJ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Image and speech processing",
+        "Natural Language Processing",
+        "Biometric authentication"
+      ]
+    },
+    {
+      "id": "e95fca89",
+      "name": "",
+      "college": "MIT Institute of Design- MIT Art, Design & Technology University",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Design Thinking, Marketing, Innovation , Entrepreneurship",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?hl=en&user=T1fF3SAAAAAJ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Design Thinking",
+        "Marketing",
+        "Innovation",
+        "Entrepreneurship"
+      ]
+    },
+    {
+      "id": "79cbba57",
+      "name": "",
+      "college": "RV COLLEGE OF ENGINEERING",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "WIRELESS NETWORKS",
+      "phd_thesis": "",
+      "google_scholar_url": "",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "WIRELESS NETWORKS"
+      ]
+    },
+    {
+      "id": "1c600a74",
+      "name": "",
+      "college": "Karunya Institute of Technology and Sciences",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Image processing, Computer vision, AI & ML, Deep learning, NLP",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=TBsGiucAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Image processing",
+        "Computer vision",
+        "AI & ML",
+        "Deep learning",
+        "NLP"
+      ]
+    },
+    {
+      "id": "340b79c3",
+      "name": "",
+      "college": "SRM Institute of Science and Technology, Kattankulathur",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "IoT security, Biometrics ,Cybersecurity, Cryptography, Business Intelligence",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=3Y4lZesAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "IoT security",
+        "Biometrics",
+        "Cybersecurity",
+        "Cryptography",
+        "Business Intelligence"
+      ]
+    },
+    {
+      "id": "3b9ea944",
+      "name": "",
+      "college": "RV college of engineering",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Image Processing,Deep Learning, Algorithms",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=qXckcxgAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Image Processing",
+        "Deep Learning",
+        "Algorithms"
+      ]
+    },
+    {
+      "id": "4ee705e0",
+      "name": "",
+      "college": "B.M.S. College of Engineering",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "NLP, Networking, Data Analytics",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=M0CDV9AAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "NLP",
+        "Networking",
+        "Data Analytics"
+      ]
+    },
+    {
+      "id": "d339d4ee",
+      "name": "",
+      "college": " Indian Institute of Information Technology Design and Manufacturing Kurnool",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "IoT, Electronics System Design and Biomedical Instrumentation",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=Nap_byoAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "IoT",
+        "Electronics System Design and Biomedical Instrumentation"
+      ]
+    },
+    {
+      "id": "adbd1626",
+      "name": "",
+      "college": "PSG College of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Data Mining, Artificial Intelligence, Data Analytics, Machine Learning",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=kkzFx-gAAAAJ&hl=en&authuser=2",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Data Mining",
+        "Artificial Intelligence",
+        "Data Analytics",
+        "Machine Learning"
+      ]
+    },
+    {
+      "id": "96b96249",
+      "name": "",
+      "college": "IIITDM Kancheepuram",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Computer Vision, Biometrics, Deep Learning and Generative AI",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=NXNfmggAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Computer Vision",
+        "Biometrics",
+        "Deep Learning and Generative AI"
+      ]
+    },
+    {
+      "id": "84f0f655",
+      "name": "",
+      "college": "Vellore Institute of Technology, Chennai Campus ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "AI, ML, Fewshot learning, Zeroshot learning, Continual Learning, Anomaly Detection, Recommendation System, Big Data Analytics, Unsupervised learning",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=AefBPLAAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "AI",
+        "ML",
+        "Fewshot learning",
+        "Zeroshot learning",
+        "Continual Learning",
+        "Anomaly Detection",
+        "Recommendation System",
+        "Big Data Analytics",
+        "Unsupervised learning"
+      ]
+    },
+    {
+      "id": "a07fdc29",
+      "name": "",
+      "college": "Ramaiah Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Embedded Systems, VLSI",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=Vm7afMEAAAAJ&hl=en&oi=ao",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Embedded Systems",
+        "VLSI"
+      ]
+    },
+    {
+      "id": "bad083bf",
+      "name": "",
+      "college": "Vellore Institute of Technology Vellore",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Big Data Analytics, Machine Learning",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=XcX8rlEAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Big Data Analytics",
+        "Machine Learning"
+      ]
+    },
+    {
+      "id": "16c18f89",
+      "name": "",
+      "college": "SRM Institute of Science and Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Speech Recognition, Intelligent Analytics",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=TtPMzgQAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Speech Recognition",
+        "Intelligent Analytics"
+      ]
+    },
+    {
+      "id": "3d3b8d08",
+      "name": "",
+      "college": "Vellore Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "WSN,IoT machine Learning, trust management",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=fbuRDcEAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "WSN",
+        "IoT machine Learning",
+        "trust management"
+      ]
+    },
+    {
+      "id": "e948ff38",
+      "name": "",
+      "college": "Indian Institute of Information Technology Design and Manufacturing Kurnool, Andhra Pradesh, India",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Cryptography, Network Security, Secure Vehicular Communication",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=jHxyExEAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Cryptography",
+        "Network Security",
+        "Secure Vehicular Communication"
+      ]
+    },
+    {
+      "id": "66fefbab",
+      "name": "",
+      "college": "Thapar Institute of Engineering & Technology, Patiala",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Signal and Image processing, Artificial Intelligence, Machine Learning, Data Science",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=fRttufUAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Signal and Image processing",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Science"
+      ]
+    },
+    {
+      "id": "78e9202e",
+      "name": "",
+      "college": "VELLORE INSTITUTE OF TECHNOLOGY, CHENNAI",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Machine Learning, Interconnection Networks",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=6gHmc3EAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Machine Learning",
+        "Interconnection Networks"
+      ]
+    },
+    {
+      "id": "97d45c98",
+      "name": "",
+      "college": "KLEF (Deemed to be University)",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Theoretical Computation, IoT, Computational Epidemiology",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=580ePQwAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Theoretical Computation",
+        "IoT",
+        "Computational Epidemiology"
+      ]
+    },
+    {
+      "id": "b577bea5",
+      "name": "",
+      "college": "Vellore Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Digital Image Processing, Medical imaging, Object Recognition, Image Steganography, Deep Learning ",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=Y1tfLjkAAAAJ&hl=en&oi=sra",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Digital Image Processing",
+        "Medical imaging",
+        "Object Recognition",
+        "Image Steganography",
+        "Deep Learning"
+      ]
+    },
+    {
+      "id": "d8929d2d",
+      "name": "",
+      "college": "Karunya Institute of Technology and Sciences (Deemed to be University), Coimbatore",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Image processing, pattern recognition and machine learning algorithms, AR/VR",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=DJKrOBYAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Image processing",
+        "pattern recognition and machine learning algorithms",
+        "AR/VR"
+      ]
+    },
+    {
+      "id": "6194fc48",
+      "name": "",
+      "college": "Indian Institute of Information Technology Design and Manufacturing Kurnool",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "IoT, SDN, Edge Computing, EdgeAI",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?hl=en&user=pf8CBaIAAAAJ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "IoT",
+        "SDN",
+        "Edge Computing",
+        "EdgeAI"
+      ]
+    },
+    {
+      "id": "0f8a98a6",
+      "name": "",
+      "college": "VIT University Vellore",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Machine Learning, Cloud Computing, Deep Learning, NLP",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=G30mwMoAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Machine Learning",
+        "Cloud Computing",
+        "Deep Learning",
+        "NLP"
+      ]
+    },
+    {
+      "id": "d5d8d5e6",
+      "name": "",
+      "college": "Vellore Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Image Processing, Medical Image Processing, Computer Graphics, AI, ML, DL",
+      "phd_thesis": "",
+      "google_scholar_url": "",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Image Processing",
+        "Medical Image Processing",
+        "Computer Graphics",
+        "AI",
+        "ML",
+        "DL"
+      ]
+    },
+    {
+      "id": "02edb62d",
+      "name": "",
+      "college": "SRM INSTITUTE OF SCIENCE AND TECHNOLOGY",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Blockchain, Data analytics, machine learning, LLM",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=YmwFf_gAAAAJ&view_op=list_works&sortby=pubdate&gmla=AH8HC4whl-QiYs4-q0SWohfuttpTkLHE1o4UzDJOjBhOHDAHHm6r7mWlpQX82YB3ukGYbAr1_hrBPBqFVnAe5eOmRceMJlboqO0RzZ5XwTY&sciund=9014398830113516604&gmla=AH8HC4ytY99_aSwsFaWBKs7melKgkiROmWpduJcgWWX00lfu_i7c7MYFl5og5QFEg--7xF_daSe3hi2edO9HjQoWozk4ggeSCofjkepL4a4&sciund=7786020605100587621&gmla=AH8HC4zOc3l-iv42RfmkwovEM8aqN2QH8yB7IktoDlJu_tj1bV7X1ocUEJelo2uw3l-CE2H2tH9AKkmXa1DLkVHo80VufC2QJL0oOA8ddMU&sciund=7609418963904417771&gmla=AH8HC4wrvlXhNA0x0fgtS7qNsdPoqj5PHglMym6iDI88g42uU40FFHjDvIync3HM4Qw5VY9VWUOjc3MQLLYuKbNhAoqtUJkJ0GVVsGIpj9M&sciund=3132237754367640988&gmla=AH8HC4zZalHO-SO55swpLoFECqQetUss1XJn4cTT3UezKuYX7zGn7Wy8Hr9bfajhLQ6E6N4S5VnWh4YhDm18PvO-BemCZH8wsyvYdxVhRFU&sciund=7307048188882547752",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Blockchain",
+        "Data analytics",
+        "machine learning",
+        "LLM"
+      ]
+    },
+    {
+      "id": "44af97ed",
+      "name": "",
+      "college": "VIT UNIVERSITY",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Natural Language Processing, Network Security, AI , ML and Deep learning",
+      "phd_thesis": "",
+      "google_scholar_url": "",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Natural Language Processing",
+        "Network Security",
+        "AI",
+        "ML and Deep learning"
+      ]
+    },
+    {
+      "id": "80481b35",
+      "name": "",
+      "college": "SRM Institute of Science and Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Natural Language Processing",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=rBr_KS0AAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "id": "9961ed33",
+      "name": "",
+      "college": "Vellore Institute of Technology, Vellore",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Machine Learning ",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=e8CuF0cAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Machine Learning"
+      ]
+    },
+    {
+      "id": "1c2eb5d4",
+      "name": "",
+      "college": "VIT, Vellore",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Machine Learning; Deep Learning",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=FfXmTwkAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Machine Learning; Deep Learning"
+      ]
+    },
+    {
+      "id": "97d44c78",
+      "name": "",
+      "college": "Vellore Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Image Processing, Medical Imaging, Digital Forensics, Cyber Scurity",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=1tdo_68AAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Image Processing",
+        "Medical Imaging",
+        "Digital Forensics",
+        "Cyber Scurity"
+      ]
+    },
+    {
+      "id": "5674261a",
+      "name": "",
+      "college": "C. V. Raman Global University",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Machine Learning, Network Security, Cloud Computing",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=jqw2UDwAAAAJ&hl=en&oi=ao",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Machine Learning",
+        "Network Security",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "id": "3f882d0a",
+      "name": "",
+      "college": "VIT Chennai",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "",
+      "phd_thesis": "",
+      "google_scholar_url": "",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": []
+    },
+    {
+      "id": "5d71abbd",
+      "name": "",
+      "college": "Siddaganga Institute of Technology, Tumkur",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Information Security, Edge Computing, Blockchain, Parallel computing, Information retrieval",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=N+R+Sunitha&btnG=",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Information Security",
+        "Edge Computing",
+        "Blockchain",
+        "Parallel computing",
+        "Information retrieval"
+      ]
+    },
+    {
+      "id": "25e3e04c",
+      "name": "",
+      "college": "SRM Institute of Science and Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Data Analytics, Machine Learning, Artificial Intelligence",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=AFLAq4cAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Data Analytics",
+        "Machine Learning",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "id": "aad7b42f",
+      "name": "",
+      "college": "SRM Institute of Science and Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "medical image processing,quantum computing,biometrics,computer vision,",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=Cz1eftcAAAAJ&hl=en&citsig=AMD79ooHqvLJ1uzYWfsbzRcba-yfri2zJQ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "medical image processing",
+        "quantum computing",
+        "biometrics",
+        "computer vision",
+        ""
+      ]
+    },
+    {
+      "id": "27346626",
+      "name": "",
+      "college": "VELLORE INSTITUTE OF TECHNOLOGY",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Internet of Things,  Digital Twin, Edge Computing ",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=9TMaM6IAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Internet of Things",
+        "Digital Twin",
+        "Edge Computing"
+      ]
+    },
+    {
+      "id": "f1d6ae1c",
+      "name": "",
+      "college": "Ramaiah Institue of Technology ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Network security, Operating systems ",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=FDrwMSsAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Network security",
+        "Operating systems"
+      ]
+    },
+    {
+      "id": "f7a589d1",
+      "name": "",
+      "college": "PSG COLLEGE OF TECHNOLOGY, COIMBATORE ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "MACHINE LEARNING, VLSI FOR WIRELESS COMMUNICATIONS ",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=0y39huIAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "MACHINE LEARNING",
+        "VLSI FOR WIRELESS COMMUNICATIONS"
+      ]
+    },
+    {
+      "id": "1d6f1bc0",
+      "name": "",
+      "college": "Vellore Institute of Technology, Vellore",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Solid State Technology, Electronic Materials and Devices, Memory Technologies",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=lr8WUocAAAAJ&hl=en&oi=ao",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Solid State Technology",
+        "Electronic Materials and Devices",
+        "Memory Technologies"
+      ]
+    },
+    {
+      "id": "8bf55465",
+      "name": "",
+      "college": "KIIT UNIVERSITY ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "DL (Computer Vision & Sensor Fusion)",
+      "phd_thesis": "",
+      "google_scholar_url": "https://cse.kiit.ac.in/profiles/sankalp-nayak/",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "DL (Computer Vision & Sensor Fusion)"
+      ]
+    },
+    {
+      "id": "53b27e05",
+      "name": "",
+      "college": "KL University, Vijayawada",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Speech Signal Processing, Speaker Recognition, Data Science on Linguistics, Data Science and ML",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=LzX0i00AAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Speech Signal Processing",
+        "Speaker Recognition",
+        "Data Science on Linguistics",
+        "Data Science and ML"
+      ]
+    },
+    {
+      "id": "e1b795bd",
+      "name": "",
+      "college": "SRMIST",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Natural Language Processing, Deep learning, AI",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=tl7OdgMAAAAJ&hl=en&authuser=1",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Natural Language Processing",
+        "Deep learning",
+        "AI"
+      ]
+    },
+    {
+      "id": "bf72053f",
+      "name": "",
+      "college": "B.M.S. College of Engineering",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Biometrics, Image Processing, Network Security, Computer Networks",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=VgKN_FoAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Biometrics",
+        "Image Processing",
+        "Network Security",
+        "Computer Networks"
+      ]
+    },
+    {
+      "id": "c23e3c54",
+      "name": "",
+      "college": "SRM Institute of Science and Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Streaming Data Analysis",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=HfhGASUAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Streaming Data Analysis"
+      ]
+    },
+    {
+      "id": "f3ac5745",
+      "name": "",
+      "college": "B.M.S. College of Engineering ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Blockchain, Machine Learning, Image Processing",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=V9EnYrYAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Blockchain",
+        "Machine Learning",
+        "Image Processing"
+      ]
+    },
+    {
+      "id": "d5afb097",
+      "name": "",
+      "college": "Ramaiah Institute of Technology ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Big Data and Data Mining ",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=U4Hi0MkAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Big Data and Data Mining"
+      ]
+    },
+    {
+      "id": "17d5d44d",
+      "name": "",
+      "college": "Kumaraguru College of Technology ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Machine Learning , Soft Computing, Cyber Security ",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=DmoSjAYAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Machine Learning",
+        "Soft Computing",
+        "Cyber Security"
+      ]
+    },
+    {
+      "id": "3712af3e",
+      "name": "",
+      "college": "SRM Institute of Science and Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Computer vision, Machine Learning algorithms and IoT",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=NwCQbp8AAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Computer vision",
+        "Machine Learning algorithms and IoT"
+      ]
+    },
+    {
+      "id": "ebb6a14a",
+      "name": "",
+      "college": "KIIT University Bhubaneswar ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Recommendation systems, AI/ML, Game theory Mobile Communication ",
+      "phd_thesis": "",
+      "google_scholar_url": "",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Recommendation systems",
+        "AI/ML",
+        "Game theory Mobile Communication"
+      ]
+    },
+    {
+      "id": "3f075262",
+      "name": "",
+      "college": "Kumaraguru College of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Blockchain, IoT, Smart City Applications, IoT,VANET",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=rTPT1BMAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Blockchain",
+        "IoT",
+        "Smart City Applications",
+        "IoT",
+        "VANET"
+      ]
+    },
+    {
+      "id": "6910c2ba",
+      "name": "",
+      "college": "Manipal Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Wireless Networks, IoT Security",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=mct_H0kAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Wireless Networks",
+        "IoT Security"
+      ]
+    },
+    {
+      "id": "2ccae569",
+      "name": "",
+      "college": "Vellore Institute of Technology, Vellore",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Computer Vision, Software Engineering, Social Network Analysis, Human Computer Interaction",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=Z1VorKwAAAAJ&hl=en&oi=ao",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Computer Vision",
+        "Software Engineering",
+        "Social Network Analysis",
+        "Human Computer Interaction"
+      ]
+    },
+    {
+      "id": "f407b230",
+      "name": "",
+      "college": "RV College of Engineering",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Machine Learning, Image Processing",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=ZJyJtgMAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Machine Learning",
+        "Image Processing"
+      ]
+    },
+    {
+      "id": "616399cb",
+      "name": "",
+      "college": "NIT Durgapur",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Wireless Communication",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=MJp84eUAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Wireless Communication"
+      ]
+    },
+    {
+      "id": "84789531",
+      "name": "",
+      "college": "Karunya Institute of Technology and Sciences ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Internet of Things ",
+      "phd_thesis": "",
+      "google_scholar_url": "https://myaccount.google.com/?hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Internet of Things"
+      ]
+    },
+    {
+      "id": "741aa7b2",
+      "name": "",
+      "college": "SRM Institute of Science and Technology, Kattankulathur",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Image Processing, Networks, Embedded Systems",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=qZqFpjgAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Image Processing",
+        "Networks",
+        "Embedded Systems"
+      ]
+    },
+    {
+      "id": "f533407a",
+      "name": "",
+      "college": "Vellore Institute of Technology Chennai",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Electric Vehicles, Algorithm Development for Battery Management systems, Robotics, Image and Video Processing",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=uWYIXWYAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Electric Vehicles",
+        "Algorithm Development for Battery Management systems",
+        "Robotics",
+        "Image and Video Processing"
+      ]
+    },
+    {
+      "id": "0a1bcf15",
+      "name": "",
+      "college": "Siddaganga Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Image Processing, Video Coding, Machine Learning, Deep Learning",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=bavWQ_4AAAAJ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Image Processing",
+        "Video Coding",
+        "Machine Learning",
+        "Deep Learning"
+      ]
+    },
+    {
+      "id": "9795085f",
+      "name": "",
+      "college": "PSG College of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Optimization, Distributed system, Healthcare",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=blJKS2kAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Optimization",
+        "Distributed system",
+        "Healthcare"
+      ]
+    },
+    {
+      "id": "fabe1f64",
+      "name": "",
+      "college": "Vellore Institute of technology ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "AI,ML, DL, Signal and Image Processing",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=1Y7qiC8AAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "AI",
+        "ML",
+        "DL",
+        "Signal and Image Processing"
+      ]
+    },
+    {
+      "id": "d301dc18",
+      "name": "",
+      "college": "SRM Institute of Science and Technology, Kattankulatu, Chennai ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "AI, ML and Deep learning algorithms",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=20DNGRUAAAAJ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "AI",
+        "ML and Deep learning algorithms"
+      ]
+    },
+    {
+      "id": "fd0e7daa",
+      "name": "",
+      "college": "Vellore Institute of Technology, Vellore",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "AI,ML,DL, Signal and Image Processing",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=1Y7qiC8AAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "AI",
+        "ML",
+        "DL",
+        "Signal and Image Processing"
+      ]
+    },
+    {
+      "id": "a6ffb886",
+      "name": "",
+      "college": "K L E F Vaddeswaram",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Speech Processing, Natural Language Processing, AI, ML, Deep Learning, Signal Processing",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=U1ofnDgAAAAJ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Speech Processing",
+        "Natural Language Processing",
+        "AI",
+        "ML",
+        "Deep Learning",
+        "Signal Processing"
+      ]
+    },
+    {
+      "id": "0e31ae47",
+      "name": "",
+      "college": "Ramaiah Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Antenna design and Image Processing",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=gJhxamsAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Antenna design and Image Processing"
+      ]
+    },
+    {
+      "id": "53ab4f12",
+      "name": "",
+      "college": "SRM University",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Agile software process and cloud computing",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=M-Z6YEwAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Agile software process and cloud computing"
+      ]
+    },
+    {
+      "id": "bdb5f316",
+      "name": "",
+      "college": "B.M.S. College of Engineering",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Networks related, IoT, Web Technology,  AI&ML",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=BOqitLIAAAAJ&hl=en ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Networks related",
+        "IoT",
+        "Web Technology",
+        "AI&ML"
+      ]
+    },
+    {
+      "id": "36a056c5",
+      "name": "",
+      "college": "Amrita Vishwa Vidyapeetham",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Cloud Computing, Edge and Cloud, Internet of Things, Machine Learning, Network Security, Parallel/Distributed Computing, Resource Provisioning in Fog, Security in IoT",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=hrVizBoAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Cloud Computing",
+        "Edge and Cloud",
+        "Internet of Things",
+        "Machine Learning",
+        "Network Security",
+        "Parallel/Distributed Computing",
+        "Resource Provisioning in Fog",
+        "Security in IoT"
+      ]
+    },
+    {
+      "id": "b2f670e0",
+      "name": "",
+      "college": "PSG College of Technology ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Privacy and Security, Machine Learning",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=sipJk9EAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Privacy and Security",
+        "Machine Learning"
+      ]
+    },
+    {
+      "id": "86666828",
+      "name": "",
+      "college": "SRM Institute of science and Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Medical image processing, biomedical signal processing",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=q5MnGS0AAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Medical image processing",
+        "biomedical signal processing"
+      ]
+    },
+    {
+      "id": "a0d8813e",
+      "name": "",
+      "college": "RV College of Engineering",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Machine Learning, Natural Language Processing",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=wJRqgskAAAAJ&hl=en  ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "id": "27c5c211",
+      "name": "",
+      "college": "TIET Patiala",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "AI based Signal and Image Processing , Biomedical hardware design, IoT based controlling system with Cloud integration, ",
+      "phd_thesis": "",
+      "google_scholar_url": "",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "AI based Signal and Image Processing",
+        "Biomedical hardware design",
+        "IoT based controlling system with Cloud integration",
+        ""
+      ]
+    },
+    {
+      "id": "662435a0",
+      "name": "",
+      "college": "M S Ramaiah Institute of Technology, Bangalore",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "IoT, High Performance Computing, Data Analytics, cloud computing",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=geX_RLEAAAAJ&hl=en&oi=ao",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "IoT",
+        "High Performance Computing",
+        "Data Analytics",
+        "cloud computing"
+      ]
+    },
+    {
+      "id": "003393bd",
+      "name": "",
+      "college": "SRM INSTITUTE OF SCIENCE AND TECHNOLOGY",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Deep Learning, Gen AI",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=PMleAswAAAAJ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Deep Learning",
+        "Gen AI"
+      ]
+    },
+    {
+      "id": "9a08e3ba",
+      "name": "",
+      "college": "KLEF, Vijayawada",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Spoken Language Processing, AI&ML",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=Du0uP4QAAAAJ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Spoken Language Processing",
+        "AI&ML"
+      ]
+    },
+    {
+      "id": "0ff83b58",
+      "name": "",
+      "college": "Vellore Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Model compression",
+      "phd_thesis": "",
+      "google_scholar_url": "",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Model compression"
+      ]
+    },
+    {
+      "id": "98d4edb1",
+      "name": "",
+      "college": "Vellore Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "WIRELESS NETWORK and SECURITY, AUGMENTED REALITY, DIGITAL TWIN",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=QCweacsAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "WIRELESS NETWORK and SECURITY",
+        "AUGMENTED REALITY",
+        "DIGITAL TWIN"
+      ]
+    },
+    {
+      "id": "d55d56e8",
+      "name": "",
+      "college": "VIT Chennai",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Bio-inspired Computing Models and applications toward security in IoT/Fog/Edge computing, Mathematical Modeling in Data Science using Formal Languages and Automata Theory",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=9n9frz8AAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Bio-inspired Computing Models and applications toward security in IoT/Fog/Edge computing",
+        "Mathematical Modeling in Data Science using Formal Languages and Automata Theory"
+      ]
+    },
+    {
+      "id": "48ad13a1",
+      "name": "",
+      "college": "RV College of Engineering",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Deep Learning, AI, Computer Networks, Data Fusion",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=BOXKgJsAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Deep Learning",
+        "AI",
+        "Computer Networks",
+        "Data Fusion"
+      ]
+    },
+    {
+      "id": "a51c44c4",
+      "name": "",
+      "college": "PSG TECH ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "",
+      "phd_thesis": "",
+      "google_scholar_url": "",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": []
+    },
+    {
+      "id": "057e7a37",
+      "name": "",
+      "college": "SRM Institute of Science and Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "AI, Computer Vision and MANET",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=h7b2ijYAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "AI",
+        "Computer Vision and MANET"
+      ]
+    },
+    {
+      "id": "bbe272b9",
+      "name": "",
+      "college": "SRM INSTITUTE OF SCIENCE AND TECHNOLOGY, CHENNAI",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "MEDICAL IMAGE PROCESSING",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=rtppn0EAAAAJ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "MEDICAL IMAGE PROCESSING"
+      ]
+    },
+    {
+      "id": "6b4017f9",
+      "name": "",
+      "college": "Amity University Maharashtra, Mumbai ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Deep Learning,  Machine Learning,  Artificial Neural Network,  Cloud Computing ",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=gZjxMVoAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Deep Learning",
+        "Machine Learning",
+        "Artificial Neural Network",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "id": "d2c13a66",
+      "name": "",
+      "college": "VIT",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Image Processing, Blockchain Technology , AI- Gen AI, ML, Remote Sensing, HCI, AR / VR, Software engineering",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=Mvdy_sQAAAAJ&hl=en#d=gsc_md_pro-d&t=1750267231289&u=%23t%3Dgsc_md_pro_ed",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Image Processing",
+        "Blockchain Technology",
+        "AI- Gen AI",
+        "ML",
+        "Remote Sensing",
+        "HCI",
+        "AR / VR",
+        "Software engineering"
+      ]
+    },
+    {
+      "id": "230cf72d",
+      "name": "",
+      "college": "SRM Institute of Science and Technology, Kattankulathur Campus, TN-India",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Cyber Security, GenAI, Agentic AI, Emotional Intelligence, ARVR",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=BU5h75MAAAAJ&view_op=list_works&sortby=pubdate",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Cyber Security",
+        "GenAI",
+        "Agentic AI",
+        "Emotional Intelligence",
+        "ARVR"
+      ]
+    },
+    {
+      "id": "f9502370",
+      "name": "",
+      "college": "M.S.Ramaiah Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Image Processing, Deeplearning",
+      "phd_thesis": "",
+      "google_scholar_url": "No",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Image Processing",
+        "Deeplearning"
+      ]
+    },
+    {
+      "id": "59c83240",
+      "name": "",
+      "college": "RV college of engineering ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "5G and 6G communication,AI and ML, Antenna Design ,VLSI",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=64MweXAAAAAJ&hl=en&oi=sra",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "5G and 6G communication",
+        "AI and ML",
+        "Antenna Design",
+        "VLSI"
+      ]
+    },
+    {
+      "id": "38898a82",
+      "name": "",
+      "college": "Vellore Institute of Technology, Vellore",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Signal Processing",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=7WzZRjUAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Signal Processing"
+      ]
+    },
+    {
+      "id": "9f3fb71a",
+      "name": "",
+      "college": "RV College of engineering ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Computer Vision, AIML, NLP, Cybersecurity",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=MFURJ6IAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Computer Vision",
+        "AIML",
+        "NLP",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": "9a0ca738",
+      "name": "",
+      "college": "RV College of Engineering",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Wireless communication, Signal processing, Cryptography, ",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=l6YGi3wAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Wireless communication",
+        "Signal processing",
+        "Cryptography",
+        ""
+      ]
+    },
+    {
+      "id": "1b8f1899",
+      "name": "",
+      "college": "BNMIT",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Artificial Intelligence, Image Processing, IoT, ",
+      "phd_thesis": "",
+      "google_scholar_url": "",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Artificial Intelligence",
+        "Image Processing",
+        "IoT",
+        ""
+      ]
+    },
+    {
+      "id": "87c8f7b5",
+      "name": "",
+      "college": "VIT UNIVERSITY CHENNAI",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Deep Learning, Machine Learning, Computer Vision, Medical Imaging, Artificial Intelligence, Data Analytics",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=G1O53ToAAAAJ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Deep Learning",
+        "Machine Learning",
+        "Computer Vision",
+        "Medical Imaging",
+        "Artificial Intelligence",
+        "Data Analytics"
+      ]
+    },
+    {
+      "id": "daec1a43",
+      "name": "",
+      "college": "RV College of Engineering",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Machine Learning ",
+      "phd_thesis": "",
+      "google_scholar_url": "",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Machine Learning"
+      ]
+    },
+    {
+      "id": "f15708c2",
+      "name": "",
+      "college": "VIT, Vellore",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Wireless Networks, IoT, AI and Data Analytics",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=5GycgMEAAAAJ&hl=en&authuser=1",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Wireless Networks",
+        "IoT",
+        "AI and Data Analytics"
+      ]
+    },
+    {
+      "id": "37aa5047",
+      "name": "",
+      "college": "VIT,Vellore",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Wireless Networks, IoT, AI, Data Analytics",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=5GycgMEAAAAJ&hl=en&authuser=1",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Wireless Networks",
+        "IoT",
+        "AI",
+        "Data Analytics"
+      ]
+    },
+    {
+      "id": "ae022b98",
+      "name": "",
+      "college": "VIT Chennai",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Machine Learning, Software Defect Prediction, Image Processing , Ai, Deep Learning",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=cpZ4NIEAAAAJ&hl=en&authuser=5",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Machine Learning",
+        "Software Defect Prediction",
+        "Image Processing",
+        "Ai",
+        "Deep Learning"
+      ]
+    },
+    {
+      "id": "d2806c1b",
+      "name": "",
+      "college": "Vellore Institute of Technology, Vellore Campus ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Learning Algorithms, Blockchain, ARVR",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=UX5guO4AAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Learning Algorithms",
+        "Blockchain",
+        "ARVR"
+      ]
+    },
+    {
+      "id": "60f0b0cd",
+      "name": "",
+      "college": "PSG College of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Computer Networks, Artificial Intelligence, Internet of Things",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=JUw98xcAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Computer Networks",
+        "Artificial Intelligence",
+        "Internet of Things"
+      ]
+    },
+    {
+      "id": "745daaf1",
+      "name": "",
+      "college": "SRM Institute of Science and Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "AI, Block Chanin Technology, Machine Learning, Image Processing and Data analytics",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=vCeTGIYAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "AI",
+        "Block Chanin Technology",
+        "Machine Learning",
+        "Image Processing and Data analytics"
+      ]
+    },
+    {
+      "id": "9c596abf",
+      "name": "",
+      "college": "Birla Institute of Technology, Mesra",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "AI & ML",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=f490vkEAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "AI & ML"
+      ]
+    },
+    {
+      "id": "78a2248d",
+      "name": "",
+      "college": "Vellore Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "ML/DL, IoT Applications,  Power Systems, Electrical Machines",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=lL_dlmYAAAAJ&hl=en&oi=ao",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "ML/DL",
+        "IoT Applications",
+        "Power Systems",
+        "Electrical Machines"
+      ]
+    },
+    {
+      "id": "076fc9dc",
+      "name": "",
+      "college": "Ramaiah Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "IOT, Embedded systems, Wireless Networks, Image & video processing",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=NZN9HcAAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "IOT",
+        "Embedded systems",
+        "Wireless Networks",
+        "Image & video processing"
+      ]
+    },
+    {
+      "id": "b6cc2602",
+      "name": "",
+      "college": "SATHYABAMA INSTITUTE OF SCIENCE AND TECHNOLOGY",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "DATA MINING, WEB MINING, ML, NLP, AR VR",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=TAhLTUUAAAAJ&hl=en&authuser=1",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "DATA MINING",
+        "WEB MINING",
+        "ML",
+        "NLP",
+        "AR VR"
+      ]
+    },
+    {
+      "id": "6765af95",
+      "name": "",
+      "college": "RV COLLEGE OF ENGINEERING",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "RF CIRCUIT AND ANTENNA DESIGN",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=QTSP9VcAAAAJ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "RF CIRCUIT AND ANTENNA DESIGN"
+      ]
+    },
+    {
+      "id": "c6f1d12e",
+      "name": "",
+      "college": "Vellore Institute of Technology, Vellore",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Satellite image processing, Medical image processing, algorithms",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=7NEB9JkAAAAJ&hl=en&oi=ao",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Satellite image processing",
+        "Medical image processing",
+        "algorithms"
+      ]
+    },
+    {
+      "id": "5a8e37ce",
+      "name": "",
+      "college": "b.m.s college of engineering",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "computer networks cloud computing machine learning IOT ",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=jayarekha&oq=jayare",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "computer networks cloud computing machine learning IOT"
+      ]
+    },
+    {
+      "id": "60141a9b",
+      "name": "",
+      "college": "NIT, Tiruchirappalli",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Compter vision, Machine learning,  Deep learning,  Virtual reality",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=lMqwjWsAAAAJ&hl=en&oi=ao",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Compter vision",
+        "Machine learning",
+        "Deep learning",
+        "Virtual reality"
+      ]
+    },
+    {
+      "id": "b88372cc",
+      "name": "",
+      "college": "Vellore Institute of Technology, Vellore",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Information Management and Data Analytics, Artificial Intelligence, Soft Computing, Medical AI",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=P-UJkCUAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Information Management and Data Analytics",
+        "Artificial Intelligence",
+        "Soft Computing",
+        "Medical AI"
+      ]
+    },
+    {
+      "id": "d79c2c15",
+      "name": "",
+      "college": "Vellore Insitutute of Technology, Vellore",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Cloud computing, Information Security and AI",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=Wxommj0AAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Cloud computing",
+        "Information Security and AI"
+      ]
+    },
+    {
+      "id": "1da52796",
+      "name": "",
+      "college": "Vellore Institute of Technology, Vellore",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "AI, Soft Computing, Data Privacy and Bioinformatics",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=qk942aAAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "AI",
+        "Soft Computing",
+        "Data Privacy and Bioinformatics"
+      ]
+    },
+    {
+      "id": "b7bbc1d9",
+      "name": "",
+      "college": "Karunya Institute of Technology and Sciences",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "1) AI-ML based Signal Processing application 2) Wearables, Flexible & Metamaterial based Antennas",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=mq9BxTQAAAAJ&hl",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "1) AI-ML based Signal Processing application 2) Wearables",
+        "Flexible & Metamaterial based Antennas"
+      ]
+    },
+    {
+      "id": "1d5fdaa4",
+      "name": "",
+      "college": "Vellore Institute of Technology, Chennai",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "NLP, Genai, Data Science",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=oJQ7rkwAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "NLP",
+        "Genai",
+        "Data Science"
+      ]
+    },
+    {
+      "id": "ed5b6326",
+      "name": "",
+      "college": "Siddaganga Institute of Technology, Tumkur",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "5g, Communication networks, ML, AI, SDN, IOT",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=mB9WIXAAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "5g",
+        "Communication networks",
+        "ML",
+        "AI",
+        "SDN",
+        "IOT"
+      ]
+    },
+    {
+      "id": "e8f11785",
+      "name": "",
+      "college": "Vellore Institute of Technology, Vellore",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Machine Learning, AI",
+      "phd_thesis": "",
+      "google_scholar_url": "",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "id": "23d0b70b",
+      "name": "",
+      "college": "SRM Institute of Science and Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Internet of Things, Machine Learning and Deep Learning, Network Security",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=ERQ0EPkAAAAJ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Internet of Things",
+        "Machine Learning and Deep Learning",
+        "Network Security"
+      ]
+    },
+    {
+      "id": "65acd85b",
+      "name": "",
+      "college": "THAPAR INSTITUTE OF ENGINEERING AND TECHNOLOGY, PATIALA",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Wireless Communication and Signal Processing",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=WTdvsm0AAAAJ&hl=en&authuser=1",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Wireless Communication and Signal Processing"
+      ]
+    },
+    {
+      "id": "4a842d46",
+      "name": "",
+      "college": "M S Ramaiah Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Data Science, Machine Learning, Java programming, privacy preservation",
+      "phd_thesis": "",
+      "google_scholar_url": "",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Data Science",
+        "Machine Learning",
+        "Java programming",
+        "privacy preservation"
+      ]
+    },
+    {
+      "id": "64cb63cf",
+      "name": "",
+      "college": "Satyadhyan Chickerur ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "HPC, Convergence of HPC and AI , Healthcare and Deep Learning ",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=Obwc7esAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "HPC",
+        "Convergence of HPC and AI",
+        "Healthcare and Deep Learning"
+      ]
+    },
+    {
+      "id": "f1daf02c",
+      "name": "",
+      "college": "VIT",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Network, Mining, Swarm, Block-chain, AI and ML",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=UY6VCaMAAAAJ&scilu=&scisig=ACUpqDcAAAAAaFTaaKyT75seKPG3e5AxbQPk4_w&gmla=AH8HC4zJDvUCTkHSCrOXcULUkSED34LUkB1hyKzq6rYwyfFDi0yys3Vf7ydPsaZhhz5MLxs62pN45kHNnAtqHdgwepAGCt_zU5kVnpM&sciund=721645209726612493",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Network",
+        "Mining",
+        "Swarm",
+        "Block-chain",
+        "AI and ML"
+      ]
+    },
+    {
+      "id": "63c1f775",
+      "name": "",
+      "college": "Vellore Institute of Technology, Chennai",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "VLSI Design, VLSI Testing & Testability, Deep Learning In VLSI, FPGA based system, Semiconductor Memory Design, Biomedical Signal/Image processing, Machine Learning applications using LabVIEW, and IoT Systems",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=-isD0yQAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "VLSI Design",
+        "VLSI Testing & Testability",
+        "Deep Learning In VLSI",
+        "FPGA based system",
+        "Semiconductor Memory Design",
+        "Biomedical Signal/Image processing",
+        "Machine Learning applications using LabVIEW",
+        "and IoT Systems"
+      ]
+    },
+    {
+      "id": "6632ab2b",
+      "name": "",
+      "college": "Ramaiah Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Artificial Intelligence, RTL",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=uCpp7dQAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Artificial Intelligence",
+        "RTL"
+      ]
+    },
+    {
+      "id": "19b0353f",
+      "name": "",
+      "college": "VIT, VELLORE",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Agentic AI, AI Deep learning, Data Analysis and ML",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=-d26C-sAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Agentic AI",
+        "AI Deep learning",
+        "Data Analysis and ML"
+      ]
+    },
+    {
+      "id": "2841e738",
+      "name": "",
+      "college": "Manipal Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "NLP",
+      "phd_thesis": "",
+      "google_scholar_url": "",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "NLP"
+      ]
+    },
+    {
+      "id": "eb18ec01",
+      "name": "",
+      "college": "SRMIST",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "AI, WSN",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=rnDlQUcAAAAJ&view_op=list_works&authuser=1&sortby=pubdate",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "AI",
+        "WSN"
+      ]
+    },
+    {
+      "id": "24299115",
+      "name": "",
+      "college": "Thapar Institute of Engineering & Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Electric Transportation, Artificial intelligence, Electric/hybrid vehicles, Motor control,  Power converters, and Industrial drive systems",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?hl=en&user=dp-cAIEAAAAJ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Electric Transportation",
+        "Artificial intelligence",
+        "Electric/hybrid vehicles",
+        "Motor control",
+        "Power converters",
+        "and Industrial drive systems"
+      ]
+    },
+    {
+      "id": "bea23e67",
+      "name": "",
+      "college": "Vellore Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=YV07r7AAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": []
+    },
+    {
+      "id": "3562cb7a",
+      "name": "",
+      "college": "Vellore Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=CW6OwKIAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": []
+    },
+    {
+      "id": "119bd6d9",
+      "name": "",
+      "college": "Vellore Institute of Technology,Vellore",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Radar Signal Processing-mmwave radar",
+      "phd_thesis": "",
+      "google_scholar_url": " https://scholar.google.com/citations?user=h68yEoQAAAAJ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Radar Signal Processing-mmwave radar"
+      ]
+    },
+    {
+      "id": "fba293ed",
+      "name": "",
+      "college": "SATHYABAMA INSTITUTE OF SCIENCE AND TECHNOLOGY",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "AI, Image Processing, IoT, Embedded Processing",
+      "phd_thesis": "",
+      "google_scholar_url": "y1XZLb0AAAAJ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "AI",
+        "Image Processing",
+        "IoT",
+        "Embedded Processing"
+      ]
+    },
+    {
+      "id": "360eca1f",
+      "name": "",
+      "college": "Amity University Jharkhand",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "AI,ML, Software Engg",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.ca/citations?hl=en&user=ssNuxkEAAAAJ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "AI",
+        "ML",
+        "Software Engg"
+      ]
+    },
+    {
+      "id": "841a653c",
+      "name": "",
+      "college": "Vellore Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Electric Vehicles, Battery managment, Power system, microgrid, power electronics to renewables",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=iNzyrTkAAAAJ&hl=en&oi=sra",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Electric Vehicles",
+        "Battery managment",
+        "Power system",
+        "microgrid",
+        "power electronics to renewables"
+      ]
+    },
+    {
+      "id": "c345087f",
+      "name": "",
+      "college": "PSG College of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Blockchain, Networking",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=sM6DbdwAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Blockchain",
+        "Networking"
+      ]
+    },
+    {
+      "id": "9505eb8b",
+      "name": "",
+      "college": "Vellore Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Image Processing, Deep Learning, Gen AI",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=z8iAXj4AAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Image Processing",
+        "Deep Learning",
+        "Gen AI"
+      ]
+    },
+    {
+      "id": "0197e7ab",
+      "name": "",
+      "college": "Vellore Institute of Technology, Chennai",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "",
+      "phd_thesis": "",
+      "google_scholar_url": "",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": []
+    },
+    {
+      "id": "01531294",
+      "name": "",
+      "college": "Coimbatore Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Data Analytics",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=ptSdf3QAAAAJ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Data Analytics"
+      ]
+    },
+    {
+      "id": "134e89fd",
+      "name": "",
+      "college": "VIT-VELLORE ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Signal and Image processing, Artificial Intelligence, Machine Learning ",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=zjjO4RsAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Signal and Image processing",
+        "Artificial Intelligence",
+        "Machine Learning"
+      ]
+    },
+    {
+      "id": "c484fb71",
+      "name": "",
+      "college": "VELLORE INSTITUTE OF TECHNOLOGY",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "5G/6G, Signal processing, IoT, Machine Learning",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=cxx15e4AAAAJ&view_op=list_works&sortby=pubdate",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "5G/6G",
+        "Signal processing",
+        "IoT",
+        "Machine Learning"
+      ]
+    },
+    {
+      "id": "473a1a50",
+      "name": "",
+      "college": "Siddaganga Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Network Security, SCADA systems, Edge Computing , Android ",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=Z6fZbNQAAAAJ&hl=en&oi=ao",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Network Security",
+        "SCADA systems",
+        "Edge Computing",
+        "Android"
+      ]
+    },
+    {
+      "id": "e6cabf1b",
+      "name": "",
+      "college": "SRMIST",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Biomedical Engineering",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=_2aAEo0AAAAJ&view_op=list_works&citft=1&citft=2&citft=3&email_for_op=varshink%40srmist.edu.in&gmla=AP6z3OZ2waOHlzHERwTCtbUSG97ipkQ2zJrzklakEF_SP311r7aQ9QfzZzHupWqNB1xqecmrO_8Dffo4BIGJuLw",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Biomedical Engineering"
+      ]
+    },
+    {
+      "id": "28191f09",
+      "name": "",
+      "college": "Vellore Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "IoT, Sensor Networks, Machine Learning, Deep Learning, AI, Cyber Security",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=H.Santhi+vit+university+vellore&btnG=",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "IoT",
+        "Sensor Networks",
+        "Machine Learning",
+        "Deep Learning",
+        "AI",
+        "Cyber Security"
+      ]
+    },
+    {
+      "id": "c0387404",
+      "name": "",
+      "college": "B.M.S College of Engineering",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Social Network Analysis, Data Science, Machine Learning, RPA",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=rGS6T5MAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Social Network Analysis",
+        "Data Science",
+        "Machine Learning",
+        "RPA"
+      ]
+    },
+    {
+      "id": "763b5af2",
+      "name": "",
+      "college": "Vellore Institute of Technology, Chennai",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Cloud computing, Machine Learning, Blockchain ",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.co.in/citations?user=Rb0rUqAAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Cloud computing",
+        "Machine Learning",
+        "Blockchain"
+      ]
+    },
+    {
+      "id": "c134e72b",
+      "name": "",
+      "college": "Vellore Institute of Technology, Vellore Campus",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "DevOps, MLOps, AI,ML, Computer Vision, Networking",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=IO1evoYAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "DevOps",
+        "MLOps",
+        "AI",
+        "ML",
+        "Computer Vision",
+        "Networking"
+      ]
+    },
+    {
+      "id": "492a63f7",
+      "name": "",
+      "college": "R V College of Engineerin",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Wireless sensor networks, multi mobile agents, AIML, IoT, operating systems",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=ivvkMQkAAAAJ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Wireless sensor networks",
+        "multi mobile agents",
+        "AIML",
+        "IoT",
+        "operating systems"
+      ]
+    },
+    {
+      "id": "2a0feec0",
+      "name": "",
+      "college": "Vellore Institute of Technology chennai",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "",
+      "phd_thesis": "",
+      "google_scholar_url": "",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": []
+    },
+    {
+      "id": "f6baff3c",
+      "name": "",
+      "college": "VIT Vellore",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "AI and Machine learning",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.ca/citations?user=boEx_-cAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "AI and Machine learning"
+      ]
+    },
+    {
+      "id": "01b334a2",
+      "name": "",
+      "college": "Coimbatore Institute of Technology",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Data Analaytics",
+      "phd_thesis": "",
+      "google_scholar_url": "ptSdf3QAAAAJ",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Data Analaytics"
+      ]
+    },
+    {
+      "id": "81cd745f",
+      "name": "",
+      "college": "Sathyabama Institute of Science and Technology, Chennai",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Data Mining, Data Structures and Algorithms, Machine Learning, Artificial Intelligence",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=K6IbNOoAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Data Mining",
+        "Data Structures and Algorithms",
+        "Machine Learning",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "id": "a7cee113",
+      "name": "",
+      "college": "SRM Institute of science and Technology, KTR Campus",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Image Processing, Pattern Recognition, DL,ML, Networking",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=ihG_SX0AAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Image Processing",
+        "Pattern Recognition",
+        "DL",
+        "ML",
+        "Networking"
+      ]
+    },
+    {
+      "id": "e54d8c12",
+      "name": "",
+      "college": "Thapar Institute of Engineering and Technology, Patiala, Punjab",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "NLP, Machine Learning, Deep Learning",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=gbxt9p0AAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "NLP",
+        "Machine Learning",
+        "Deep Learning"
+      ]
+    },
+    {
+      "id": "6f91cf3c",
+      "name": "",
+      "college": "SRMIST, Kattankulathur ",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Deep Learning, IoT",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=_baOdkUAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Deep Learning",
+        "IoT"
+      ]
+    },
+    {
+      "id": "576e3f1d",
+      "name": "",
+      "college": "SRM Institute of Science and Technology, Kattankulathur",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Deep Learning and Cloud Computing",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=Mx9xu2UAAAAJ&hl=en",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Deep Learning and Cloud Computing"
+      ]
+    },
+    {
+      "id": "e852bff1",
+      "name": "",
+      "college": "TIET PATIALA",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "AI based Signal and Image processing , IoT based System, medical devices ",
+      "phd_thesis": "",
+      "google_scholar_url": "https://www.researchgate.net/profile/Amanpreet-Kaur-112",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "AI based Signal and Image processing",
+        "IoT based System",
+        "medical devices"
+      ]
+    },
+    {
+      "id": "73d77e53",
+      "name": "",
+      "college": "IIIT Naya Raipur",
+      "email": "",
+      "profile_link": "",
+      "domain_expertise": "Signal and image processing, AI and Machine Learning, Computer vision, Biomedical Engineering",
+      "phd_thesis": "",
+      "google_scholar_url": "https://scholar.google.com/citations?user=bzoViqQAAAAJ&hl=hi",
+      "semantic_scholar_url": "",
+      "profile_picture_url": "",
+      "has_google_scholar": true,
+      "has_semantic_scholar": false,
+      "expertise_array": [
+        "Signal and image processing",
+        "AI and Machine Learning",
+        "Computer vision",
+        "Biomedical Engineering"
+      ]
+    }
+  ]
+}
