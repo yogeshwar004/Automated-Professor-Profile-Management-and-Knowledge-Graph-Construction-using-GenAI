@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-# 🚀 PRISM — AI-Powered Faculty Discovery Platform
+# 🚀 PRISM — Automated Professor Profile Management and Knowledge Graph Construction using GenAI
 
 ### 🔍 Transforming how researchers find the right academic experts
 
