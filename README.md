@@ -4,7 +4,7 @@
 
 ### 🔍 Transforming how researchers find the right academic experts
 
-<img src="https://img.shields.io/badge/AI-Powered-Yes-green" />
+
 <img src="https://img.shields.io/badge/FullStack-React%20%7C%20Flask-blue" />
 <img src="https://img.shields.io/badge/Database-MySQL-orange" />
 
