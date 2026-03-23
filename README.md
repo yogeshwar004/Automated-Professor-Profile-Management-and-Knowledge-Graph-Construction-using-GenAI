@@ -5,8 +5,10 @@
 ### 🔍 Transforming how researchers find the right academic experts
 
 
-<img src="https://img.shields.io/badge/FullStack-React%20%7C%20Flask-blue" />
-<img src="https://img.shields.io/badge/Database-MySQL-orange" />
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![React](https://img.shields.io/badge/react-18.2.0-blue.svg)](https://reactjs.org/)
+[![MySQL](https://img.shields.io/badge/mysql-8.0+-blue.svg)](https://www.mysql.com/)
 
 </div>
 
